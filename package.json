@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Shubham-Shingala.github.io/TextUtils-React",
+  "homepage": "https://shubham-shingala.github.io/TextUtils-React",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,7 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.0",
+    "typewriting-react": "^1.0.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
